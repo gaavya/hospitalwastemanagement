@@ -1,0 +1,295 @@
+{
+  "entries": [
+    {
+      "id": "WST-95114",
+      "wasteType": "Gloves",
+      "category": "Red",
+      "quantity": "789",
+      "status": "Pending",
+      "nurseName": "Akshaya",
+      "timestamp": "7/16/2026, 9:45:37 PM",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "7/16/2026, 9:45:37 PM",
+          "actor": "Akshaya (Nurse)"
+        }
+      ]
+    },
+    {
+      "id": "WST-93586",
+      "wasteType": "gloves",
+      "category": "Red",
+      "quantity": "500",
+      "status": "Arrived",
+      "nurseName": "Akshaya",
+      "timestamp": "6/5/2026, 4:09:43 pm",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "6/5/2026, 4:09:43 pm",
+          "actor": "Akshaya (Nurse)"
+        },
+        {
+          "status": "Approved",
+          "timestamp": "6/5/2026, 4:10:48 pm",
+          "actor": "Akshaya (Supervisor)",
+          "note": null
+        },
+        {
+          "status": "In Transit",
+          "timestamp": "6/5/2026, 4:11:30 pm",
+          "actor": "Akshaya (Disposal Team)",
+          "note": null
+        },
+        {
+          "status": "Arrived",
+          "timestamp": "6/5/2026, 4:12:39 pm",
+          "actor": "Akshaya (Administrator)",
+          "note": null
+        }
+      ],
+      "transit_start_time": "6/5/2026, 4:11:30 pm",
+      "transit_person": "Akshaya",
+      "transit_note": "Dispatched from hospital facility"
+    },
+    {
+      "id": "WST-46997",
+      "wasteType": "needle",
+      "category": "White",
+      "quantity": "58",
+      "status": "In Transit",
+      "nurseName": "Dharshini",
+      "timestamp": "21/4/2026, 11:46:10 am",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "21/4/2026, 11:46:10 am",
+          "actor": "Dharshini (Nurse)"
+        },
+        {
+          "status": "Approved",
+          "timestamp": "21/4/2026, 11:47:01 am",
+          "actor": "Dharshini (Supervisor)",
+          "note": null
+        },
+        {
+          "status": "In Transit",
+          "timestamp": "6/5/2026, 4:12:04 pm",
+          "actor": "Akshaya (Disposal Team)",
+          "note": null
+        }
+      ],
+      "transit_start_time": "6/5/2026, 4:12:04 pm",
+      "transit_person": "Akshaya",
+      "transit_note": "Dispatched from hospital facility"
+    },
+    {
+      "id": "WST-68288",
+      "wasteType": "iv tubes",
+      "category": "Red",
+      "quantity": "96",
+      "status": "Arrived",
+      "nurseName": "Dharshini",
+      "timestamp": "21/4/2026, 11:43:48 am",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "21/4/2026, 11:43:48 am",
+          "actor": "Dharshini (Nurse)"
+        },
+        {
+          "status": "Approved",
+          "timestamp": "21/4/2026, 11:44:20 am",
+          "actor": "Dharshini (Supervisor)",
+          "note": null
+        },
+        {
+          "status": "In Transit",
+          "timestamp": "21/4/2026, 11:44:50 am",
+          "actor": "Dharshini (Disposal Team)",
+          "note": null
+        },
+        {
+          "status": "Arrived",
+          "timestamp": "21/4/2026, 11:47:28 am",
+          "actor": "Dharshini (Administrator)",
+          "note": null
+        }
+      ],
+      "transit_start_time": "21/4/2026, 11:44:50 am",
+      "transit_person": "Dharshini",
+      "transit_note": "Dispatched from hospital facility"
+    },
+    {
+      "id": "WST-16812",
+      "wasteType": "Bloodcotton",
+      "category": "Yellow",
+      "quantity": "50",
+      "status": "In Transit",
+      "nurseName": "Dharshini",
+      "timestamp": "20/4/2026, 9:23:50 pm",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "20/4/2026, 9:23:50 pm",
+          "actor": "Dharshini (Nurse)"
+        },
+        {
+          "status": "Approved",
+          "timestamp": "20/4/2026, 9:27:05 pm",
+          "actor": "Akshaya (Supervisor)",
+          "note": null
+        },
+        {
+          "status": "In Transit",
+          "timestamp": "20/4/2026, 9:27:51 pm",
+          "actor": "Akshaya (Disposal Team)",
+          "note": null
+        }
+      ],
+      "transit_start_time": "20/4/2026, 9:27:51 pm",
+      "transit_person": "Akshaya",
+      "transit_note": "Dispatched from hospital facility"
+    },
+    {
+      "id": "WST-82984",
+      "wasteType": "needles",
+      "category": "White",
+      "quantity": "540",
+      "status": "Arrived",
+      "nurseName": "Akshaya",
+      "timestamp": "15/4/2026, 1:33:06 pm",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "15/4/2026, 1:33:06 pm",
+          "actor": "Akshaya (Nurse)"
+        },
+        {
+          "status": "Approved",
+          "timestamp": "17/4/2026, 3:42:38 pm",
+          "actor": "Akshaya (Supervisor)",
+          "note": null
+        },
+        {
+          "status": "In Transit",
+          "timestamp": "17/4/2026, 3:43:14 pm",
+          "actor": "Akshaya (Disposal Team)",
+          "note": null
+        },
+        {
+          "status": "Arrived",
+          "timestamp": "17/4/2026, 3:43:48 pm",
+          "actor": "Akshaya (Administrator)",
+          "note": null
+        }
+      ],
+      "transit_start_time": "17/4/2026, 3:43:14 pm",
+      "transit_person": "Akshaya",
+      "transit_note": "Dispatched from hospital facility"
+    },
+    {
+      "id": "WST-67964",
+      "wasteType": "iv",
+      "category": "Red",
+      "quantity": "500",
+      "status": "Arrived",
+      "nurseName": "Akshaya",
+      "timestamp": "15/4/2026, 1:21:57 pm",
+      "history": [
+        {
+          "status": "Pending",
+          "timestamp": "15/4/2026, 1:21:57 pm",
+          "actor": "Akshaya (Nurse)"
+        },
+        {
+          "status": "Approved",
+          "timestamp": "15/4/2026, 1:22:32 pm",
+          "actor": "Aksh (Supervisor)",
+          "note": null
+        },
+        {
+          "status": "In Transit",
+          "timestamp": "15/4/2026, 1:22:48 pm",
+          "actor": "Ak (Disposal Team)",
+          "note": null
+        },
+        {
+          "status": "Arrived",
+          "timestamp": "15/4/2026, 1:23:09 pm",
+          "actor": "A (Administrator)",
+          "note": null
+        }
+      ],
+      "transit_start_time": "15/4/2026, 1:22:48 pm",
+      "transit_person": "Ak",
+      "transit_note": "Dispatched from hospital facility"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "ALT-5207",
+      "hospitalName": "Central City Hospital",
+      "location": "Downtown District, Sector 4",
+      "message": "Disposal team failed to arrive for scheduled pickup.",
+      "timestamp": "6/5/2026, 4:10:42 pm",
+      "status": "Active",
+      "reportedBy": "Akshaya"
+    },
+    {
+      "id": "ALT-47170",
+      "hospitalName": "Central City Hospital",
+      "location": "Downtown District, Sector 4",
+      "message": "Disposal team failed to arrive for scheduled pickup.",
+      "timestamp": "21/4/2026, 11:44:21 am",
+      "status": "Resolved",
+      "reportedBy": "Dharshini",
+      "resolvedAt": "21/4/2026, 11:47:20 am"
+    },
+    {
+      "id": "ALT-70116",
+      "hospitalName": "Central City Hospital",
+      "location": "Downtown District, Sector 4",
+      "message": "Disposal team failed to arrive for scheduled pickup.",
+      "timestamp": "15/4/2026, 1:22:34 pm",
+      "status": "Resolved",
+      "reportedBy": "Aksh",
+      "resolvedAt": "15/4/2026, 1:23:06 pm"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "NTF-95084",
+      "recipient": "Supervisor",
+      "message": "Action will be taken immediately",
+      "timestamp": "21/4/2026, 11:47:20 am",
+      "source": "Govt Oversight"
+    },
+    {
+      "id": "NTF-18809",
+      "recipient": "Supervisor",
+      "message": "Action will be taken immediately",
+      "timestamp": "15/4/2026, 1:23:06 pm",
+      "source": "Govt Oversight"
+    }
+  ],
+  "medicines": [
+    {
+      "id": "MED-661",
+      "name": "Dolo",
+      "category": "Tablet / Capsule",
+      "arrivalDate": "2026-03-11",
+      "mfgDate": "2026-03-17",
+      "expDate": "2026-05-15"
+    },
+    {
+      "id": "MED-57817",
+      "name": "Amocillin",
+      "category": "Tablet / Capsule",
+      "arrivalDate": "2026-04-07",
+      "mfgDate": "2026-04-02",
+      "expDate": "2027-03-31"
+    }
+  ]
+}
